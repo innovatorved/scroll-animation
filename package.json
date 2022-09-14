@@ -1,0 +1,8 @@
+{
+  "name": "animation-scroll",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/innovatorved/scroll-animation.git",
+  "author": "Ved Gupta",
+  "license": "MIT"
+}
